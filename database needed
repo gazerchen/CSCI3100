@@ -9,3 +9,10 @@
 4. User Payment history-----this is a database that stores user's payment history, which includes items and paid amount of each transection
                             of a user.
 (I think this can be merged into User Account database) 
+
+17/4/2020 update
+
+database needed:
+1. UserAccount database, used to store username, password(encoded), and userpayment history
+2. Pizza orders database, used to store ongoing orders from different users
+3. Pizza database, used to store different kind of pizzas
